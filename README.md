@@ -35,10 +35,17 @@ If there are only a few users, one could work with Content-Based methods. Then, 
 
 This type of recommendation works by comparing video attributes to suggest similar videos that share those same attributes. The technical term for this recommendation is cosine similarity in this case. Think of the video’s attributes like duration, sound, and text. These features can be used to recommend videos that share similar attribute values.
 
-- Example:
-'duration — 30 seconds long 
-hashtags — #coaster #rollercoaster #themepark #disneyworld'
+-**Example:**
 
+`duration — 30 seconds long`
+
+`hashtags — #coaster #rollercoaster #themepark #disneyworld`
+
+## Collaborative-Filtering
+
+This type of recommendation works by comparing you to others. So, if you are new to the app and start liking or rating a video highly (in another use case), you will start to see recommended videos. Those videos are the videos that other people like, who also liked the same past videos of you. This type of recommendation is technically referred to as alternating least squares — and matrix factorization.
+
+-**Example:** If person A likes and comments on videos 1, 2, 3, 4, and 5, and person B likes and comments on videos, 1, 2, and 3, they will tend to like videos 4 and 5. Another way to visualize this example is the following (X being the recommended video similar to 4 and 5 from above).
 
 
 
