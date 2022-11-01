@@ -37,9 +37,17 @@ This type of recommendation works by comparing video attributes to suggest simil
 
 -**Example:**
 
+Past Video:
+
 `duration — 30 seconds long`
 
 `hashtags — #coaster #rollercoaster #themepark #disneyworld`
+
+Recommended Video:
+
+`duration — 28 seconds long`
+
+`hashtags — #rollercoaters #ride #florida #universalstudios`
 
 ## Collaborative-Filtering
 
