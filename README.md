@@ -1,7 +1,7 @@
 
 # Hybrid Recommendation System with Neural Network 
 
-Built hybrid recommendation system by combining Content-Based (Video Information), Collaborative Filtering (User Interaction), and Knowledge-Based (Personal information) for recommending videos and movies to the user.
+Built hybrid recommendation system by combining **Content-Based (Video Information), Collaborative Filtering (User Interaction)**, and **Knowledge-Based (Personal information)** for recommending videos and movies to the user.
 
 ![20d38e00-6634-11eb-9d1f-6a5232d0f84f](https://user-images.githubusercontent.com/68578215/199301101-063ad901-4328-4770-bb51-89f51d5c45ec.jpeg)
 
