@@ -36,8 +36,8 @@ If there are only a few users, one could work with Content-Based methods. Then, 
 This type of recommendation works by comparing video attributes to suggest similar videos that share those same attributes. The technical term for this recommendation is cosine similarity in this case. Think of the video’s attributes like duration, sound, and text. These features can be used to recommend videos that share similar attribute values.
 
 - Example:
-' duration — 30 seconds long '
-' hashtags — #coaster #rollercoaster #themepark #disneyworld '
+'duration — 30 seconds long 
+hashtags — #coaster #rollercoaster #themepark #disneyworld'
 
 
 
